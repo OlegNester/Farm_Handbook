@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="farmArray">
+        <item>Анальгін</item>
+        <item>німесил</item>
+        <item>фервекс</item>
+        <item>німесил</item>
+        <item>німесил</item>
+    </string-array>
+    <string-array name="himArray">
+        <item>стрепсілс</item>
+        <item>доктор мом</item>
+        <item>валеряна</item>
+        <item>сорбекс</item>
+        <item>імед</item>
+    </string-array>
+</resources>
